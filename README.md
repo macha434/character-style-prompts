@@ -1,0 +1,2 @@
+# character-style-prompts
+AIチャットにて好きなキャラクターの口調で会話させるためのプロンプト一覧
